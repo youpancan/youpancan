@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Phython project.<br>I’m currently learning React.js.
+I’m currently working on C# project.<br>I’m currently learning React.js.
 
 
 ## 🌐 Socials:
